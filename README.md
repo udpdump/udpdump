@@ -1,3 +1,8 @@
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
+<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -12,8 +17,3 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-10539F?style=flat-square&logo=pterodactyl&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=flat-square&logo=git&logoColor=white)
-<br>
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=white)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=white)
