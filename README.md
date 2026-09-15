@@ -1,5 +1,5 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-d70a53?style=flat-square&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=flat-square&logo=archlinux&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-4e47b2?style=flat-square&logo=mariadb&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
